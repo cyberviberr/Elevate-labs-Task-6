@@ -3,7 +3,7 @@
 #Objective: Understand what makes a password strong and test it against password strength tools.
 #Tools: passwordmeter.com (Online free password strength checkers)
 
-#Created multiple passwords with varying complexity.
+Created multiple passwords with varying complexity.
 
 1. Uppercase Password Strength Details
 ![Uppercase only](images/Uppercase_Password.png)
